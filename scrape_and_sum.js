@@ -30,3 +30,4 @@ const urls = [
   console.log("Total Sum:", total);
   await browser.close();
 })();
+console.log("Total Sum:", total);
